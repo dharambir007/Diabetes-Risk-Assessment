@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd diabetes-frontend && npm install && npm run build",
+  "outputDirectory": "diabetes-frontend/dist",
+  "installCommand": "cd diabetes-frontend && npm install",
+  "framework": null
+}

@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 # === Configuration ===
-FRONTEND_ORIGINS = ["http://localhost:5173"]  # adjust exactly to your frontend origin
+FRONTEND_ORIGINS = ["*"]  # Allow all origins (you can restrict this later)
 FEATURES = [
     "Pregnancies",
     "Glucose",

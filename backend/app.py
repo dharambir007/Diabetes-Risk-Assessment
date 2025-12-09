@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 # === Configuration ===
-FRONTEND_ORIGINS = ["*"]  # Allow all origins (you can restrict this later)
+FRONTEND_ORIGINS = ["*","https://diabetesriskassessment.vercel.app","https://diabetesriskassessment.vercel.app/"]  # Allow all origins (you can restrict this later)
 FEATURES = [
     "Pregnancies",
     "Glucose",

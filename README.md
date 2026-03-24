@@ -3,7 +3,7 @@
 ## 🎯 Overview
 The **Diabetes Risk Assessment System** is a full-stack web application that leverages machine learning to predict diabetes risk based on clinical parameters.
 
-This project is based on the research paper **"Enhanced Early Detection of Diabetes Through Ensemble and Supervised Learning Techniques"**, accepted for presentation at **RDCAPE 2025**.
+This project is based on the research paper **"Enhanced Early Detection of Diabetes Through Ensemble and Supervised Learning Techniques"**, accepted and presented at **RDCAPE 2025**.
 
 ### Key Highlights
 - 🤖 Advanced ML model with 92.31% accuracy
